@@ -3,7 +3,8 @@
     margin: 0;
     overflow-x: hidden;
 }
-.game{
+/*the . sign the game div was hidden as 'game' is id attribute not class attribute*/
+#game{
     width: 500px;
     height: 200px;
     border: 1px solid black;
