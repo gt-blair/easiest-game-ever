@@ -1,0 +1,2 @@
+This is an intro to the easiest game ever. Made in JS and php
+Its all about good
